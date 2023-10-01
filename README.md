@@ -1,2 +1,2 @@
 # C_organization
-Programa em C, desenvolvido para organizar e ordenar um conjunto de dados utilizando ordenação estável
+C program developed to organize and order a csv archive using bubble sort
